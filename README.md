@@ -7,5 +7,5 @@ It all started with a print("Hello World!")🖨️
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasalemayehu&show_icons=true&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thomasalemayehu)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasalemayehu&langs_count=5&theme=tokyonight)]()
   
