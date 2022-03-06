@@ -1,6 +1,8 @@
-It all started with a print("Hello World!")🖨️
-
 ## Thomas Alemayehu 👋 ##
+
+
+## It all started with a print("Hello World!")🖨️ ##
+
 
   🔭 I’m currently working on ReactJS, ExpressJS, VanillaJS, CSS and Flutter. 
   <br />
