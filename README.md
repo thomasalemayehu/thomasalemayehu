@@ -7,5 +7,6 @@ It all started with a print("Hello World!")🖨️
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasalemayehu&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasalemayehu&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasalemayehu&hide=php &theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
+ &theme=dracula
