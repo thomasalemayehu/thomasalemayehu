@@ -2,8 +2,10 @@ It all started with a print("Hello World!")🖨️
 
 ## Thomas Alemayehu 👋 ##
 
-  🔭 I’m currently working on ReactJS, ExpressJS, VanillaJS and Flutter. 
+  🔭 I’m currently working on ReactJS, ExpressJS, VanillaJS, CSS and Flutter. 
+  <br />
   🌱 I’m currently learning Cyber Security.🔐
+  <br />
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasalemayehu&show_icons=true&theme=tokyonight)
 
