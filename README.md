@@ -4,7 +4,7 @@
 ## It all started with a print("Hello World!")🖨️ ##
 
 
-  🔭 I’m currently working on ReactJS, VueJS, ExpressJS, VanillaJS, CSS and Flutter. 
+  🔭 I’m currently working on ReactJS, VueJS, ExpressJS, VanillaJS, CSS, TailwindCSS and Flutter. 
   <br />
   🌱 I’m currently learning Cyber Security.🔐
   <br />
