@@ -1,4 +1,4 @@
-## Thomas Alemayehu 👋👋 😀 ##
+## Thomas Mechessa 👋👋 😀 ##
 
 
 ## It all started with a print("Hello World!")🖨️ ##
