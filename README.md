@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thomas Mechessa</h1>
 <h3 align="center">A dedicated, adaptable and skilled Software Engineer</h3>
 
+<h3>It all started with a <em>print("Hello World🌎"</em></h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasalemayehu&label=Profile%20views&color=0e75b6&style=flat" alt="thomasalemayehu" /> </p>
 
 - 🔭 I work on anything **JavaScript, TypeScript and Java**
